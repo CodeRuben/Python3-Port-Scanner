@@ -1,5 +1,5 @@
 # Python3-Port-Scanner
-Port Scanner using pythons nmap library
+Port Scanner using pythons nmap library.
 
 Specs: Performs a TCP port scan using python's nmap
        library. The program prompts the user to supply
@@ -8,5 +8,5 @@ Specs: Performs a TCP port scan using python's nmap
        shows the name of the scanner ports, along with
        the state of the port.
        
-Useful tool for penetration testing       
+Useful tool for penetration testing.       
        
